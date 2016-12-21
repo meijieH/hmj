@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="hmj"
+  id="myeclipse.1480296552846"
+  context-root="/hmj"
+  j2ee-spec="5.0"
+  archive="hmj.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
